@@ -9,7 +9,7 @@ This is the backend service for the Wellness Sessions app, built using **Node.js
 ### 1. Clone the repository
 
 ```bash
-git clone <your-backend-repo-url>
+git clone https://github.com/Nidhi-Sharma-1612/wellness_session_backend.git
 cd backend
 ```
 
@@ -64,8 +64,8 @@ Server will run at `http://localhost:5000`.
 
 ## 🌐 Live Demo (Optional)
 
-- [Frontend Demo (Netlify/Vercel)](https://your-frontend-link.com)
-- [Backend API (Render/Railway)](https://your-backend-link.com)
+- [Frontend Demo (Vercel)](https://wellness-session-frontend.vercel.app/)
+- [Backend API (Render)](https://wellness-session-backend-m43m.onrender.com)
 
 ---
 
